@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Education-MCA%20%40%20Chandigarh%20University-purple?style=flat-square" />
   <a href="https://www.linkedin.com/in/devbynaman">
@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 - 🚀 **Frontend Developer** at **Deliverable Agency**, building production-grade SaaS apps
-- ⚡ 2+ years shipping scalable web & mobile apps with **React.js, Next.js, React Native, and Flutter**
+- ⚡ 3+ years shipping scalable web & mobile apps with **React.js, Next.js, React Native, and Flutter**
 - 🌱 Currently deep-diving into **Node.js** and backend development
 - 🎯 Passionate about **reusable component architecture**, clean UI/UX, and developer experience
 - 🤝 Love collaborating closely with design and backend teams to ship great products
